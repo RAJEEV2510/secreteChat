@@ -1,0 +1,55 @@
+.login{
+    background: transparent;
+    color: white;
+    font-weight: bolder;
+    border-radius: 5px;
+    border:2px solid white;
+    padding: 10px;
+    position: relative;
+    top:20px;
+    width: 100px;
+
+    text-align: center;
+    margin-bottom: 20px;
+    font-size: 20px;
+}
+.login:hover{
+    background-color: white;
+    border:white;
+    transition: all;
+    transition-duration: 1s;
+    transition-timing-function: cubic-bezier();
+}
+.signup{
+    background: transparent;
+    color: white;
+    font-weight: bolder;
+    border-radius: 5px;
+      margin-bottom: 20px;
+    border:2px solid white;
+    padding: 10px;
+    position: relative;
+    top:20px;
+    width: 100px;
+
+    text-align: center;
+
+    font-size: 20px;
+   
+}
+.login:hover{
+    background-color: white;
+    border:white;
+    transition: all;
+    transition-duration: 1s;
+    transition-timing-function: cubic-bezier();
+}
+
+marquee{
+    position: relative;
+    
+  color:white;
+  font-weight: bolder;
+  top:20px;
+  font-size: 14px;
+}
